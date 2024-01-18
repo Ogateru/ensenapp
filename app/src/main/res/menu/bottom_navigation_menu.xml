@@ -1,0 +1,28 @@
+<!-- bottom_navigation_menu.xml -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tabAllChat"
+        android:title="ちゃっと"
+        android:icon="@drawable/forum_fill1_wght400_grad0_opsz24" />
+
+    <!--<item
+        android:id="@+id/tabGeneralchat"
+        android:title="総合ちゃっと"
+        android:icon="@drawable/chat" />-->
+
+    <item
+        android:id="@+id/tabArticle"
+        android:title="記事"
+        android:icon="@drawable/article" />
+
+    <!--<item
+        android:id="@+id/tabSearch"
+        android:title="検索"
+        android:icon="@drawable/search" />-->
+
+    <item
+        android:id="@+id/tabSettings"
+        android:title="設定"
+        android:icon="@drawable/baseline_settings_24" />
+</menu>
